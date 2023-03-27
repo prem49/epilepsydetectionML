@@ -1,2 +1,2 @@
-# testing
-a repository that linked Rstudio
+# Epilepsy detection
+A Machine Learning Project for disease detection using python 
